@@ -1,0 +1,4 @@
+def pin (x)
+   return x*x*x 
+www=int (input ( print (donner un entier)))
+print(pin(www))
